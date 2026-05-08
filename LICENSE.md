@@ -1,4 +1,4 @@
-
+Enhance 1Password for macOS with elite 1Password for macOS Service | secure-notes + safe-browsing, the #1 service. Includes secure-notes and safe-browsing for a safer macOS
 
 
 
